@@ -1,0 +1,51 @@
+*{
+	font-family: montserrat;
+}
+h1{
+	color: red;
+	text-align: center;}
+.services-column
+{
+	text-align: center;
+	padding: 20px;
+}
+#services_offered{
+	margin-top: 30px;
+	padding:20px;
+}
+img{
+	size: 100px;
+}
+.services-content{
+	margin-top: 50px;
+}
+/*gallery section*/
+#gallery{
+	margin-top: 100px;
+}
+.img-container {
+	text-align: center;
+}
+
+/*Footer style*/
+footer{
+	background-color: black;
+	margin-top: 50px;
+	color: #FFFFFF;
+}
+.footer-link{
+color: #FFFFFF;
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.footer-link:hover{ text-underline-position:
+color: #FFFFFF;
+}
+.col-sm-4{
+	text-align: right;
+}
+
